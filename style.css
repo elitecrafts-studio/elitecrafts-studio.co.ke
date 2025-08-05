@@ -713,7 +713,7 @@ body {
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
-  color: white;
+  color: var(--navy);
   position: relative;
 }
 
